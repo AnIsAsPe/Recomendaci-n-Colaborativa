@@ -1,4 +1,4 @@
-# Sistema de Recomendación de películas
+# Sistema de Recomendación de Películas
 
 El presente repositorio se refiere a un curso sobre filtrado colaborativo, impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/) 
 
